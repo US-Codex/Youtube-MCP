@@ -1,2 +1,1 @@
-# Minecraft ModCoderPack Series
-# Created by Shin
+# Minecraft Coder Pack | Video Series Public Repository
