@@ -1,1 +1,2 @@
-# Youtube-MCP
+# Minecraft ModCoderPack Series
+# Created by Shin
